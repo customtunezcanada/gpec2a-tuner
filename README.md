@@ -2,7 +2,7 @@
 
 Official downloads and auto-update host for the **Custom Tunez GPEC2A Tuner** —
 a Windows app for flashing and tuning Continental **GPEC2A** ECUs
-(FCA / Stellantis 5.7 & 6.4 HEMI — RAM, Charger, Challenger, Durango, Jeep).
+(FCA / Stellantis 3.6, 5.7 & 6.4 62HEMI — RAM, Charger, Challenger, Durango, Jeep).
 
 ## Download
 
